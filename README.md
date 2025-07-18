@@ -1,18 +1,16 @@
-# James Buck
-- 🔭 I’m currently working on Powercost
-- 🌱 I’m currently learning Python, soon Data Science
-- x
+## About Me
 
-## My Tech Skills
+Hello, I'm James Buck, a former programmer analyst at **Boeing** where I worked a lot with DB2 and Oracle databases across mainframes, AIX and RHEL.  I have ported code from the mainframe to AIX, converted PL/I code to C.
 
-| Rank | Language |
-|:---|:---|
-|     1| Oracle PL/SQL |
-|     2| SQL           |
-|     3| DB2           |
-|     4| Perl          |
-|     5| Python        |
-|     6| ClearCase     |
-|     7| C             |
-|     8| Fortran       |
-|     9| CATIA GII     |
+- I'm currently job hunting
+- I’m currently working on my Python project called Powercost
+- I’m currently learning Python, soon Data Science
+
+- **Email**: james-buck@outlook.com
+- **LinkedIn**: https://www.linkedin.com/in/james-r-buck/
+
+## Skills
+
+- **OSes**: zOS, AIX, RHEL, Ubuntu
+- **Systems**: Oracle, DB2, ClearCase, CATIA V3/V4 GII
+- **Code**: Oracle PL/SQL, MySQL, Perl, Python, C, Fortran
